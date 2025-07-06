@@ -6,7 +6,7 @@ This project predicts whether a patient has heart disease using various medical 
 
 Heart_Disease_Detection/
 ├── dataset/
-│ └── heart.csv
+│ └── dataset.csv
 ├── models/
 │ └── random_forest_model.pkl
 ├── notebooks/
@@ -16,10 +16,6 @@ Heart_Disease_Detection/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
-markdown
-Copy
-Edit
 
 ## 🧠 Dataset Description
 
